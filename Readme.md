@@ -2,9 +2,9 @@
   dev.finance$
 </h1>
 
-![preview da aplicação](https://i.ibb.co/nkjPdVx/imagem-2021-02-06-155141.png)
+![preview da aplicação](https://i.ibb.co/rMM6xDT/imagem-2021-02-08-155257.png)
 
-![preview da aplicação](https://i.ibb.co/FwpyR4r/imagem-2021-02-06-155201.png)
+![preview da aplicação](https://i.ibb.co/0yVmDtV/imagem-2021-02-08-155329.png)
 
 <br>
 
